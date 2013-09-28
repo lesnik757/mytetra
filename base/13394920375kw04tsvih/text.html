@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Просмотр ТВ каналов Ростелекома на Ubuntu </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Суть проблемы - гении Ростелекома выбрали 200 порт для вещания. При просмотре через этих каналов VLC пытается задействовать 200 порт, но не может, т.к. порты с номером меньше 1024 считаются привилегированными во всех *nix системах (все Linux, все BSD, MacOS X) и доступны только для root. Очевидное решение - долбить провайдера, чтобы он корректно настроил своё оборудование. Но не тут то было, т.к. &quot;Просмотр IP-TV на компьютере не поддерживается&quot;. Официальная приставка работает, больше их ничего не волнует.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Для решения проблемы подменим порт 200 на 34200. Сделать это на Ubuntu можно с использованием iptables следующим образом:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">?1</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">2	sudo iptables -t nat -A PREROUTING -p udp -m udp --dport 200 -j DNAT --to-destination :34200</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">sudo iptables -t nat -A POSTROUTING -p udp -m udp --dport 34200 -j SNAT --to-source :200</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">После ввода этих строк я попытался открыть канал Discovery Science udp://239.32.0.69:34200/ (порт 200 был заменён на 34200) и о чудо! Всё работает! Теперь остаётся только переделать свой плейлист заменив порт 200 во всех каналах на 34200 и наслаждаться просмотром IPTV на компьютере.</p></body></html>

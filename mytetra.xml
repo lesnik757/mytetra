@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="linux">
+   <recordtable>
+    <record dir="1339487452oc316slb90" crypt="0" url="" tags="" author="" id="1339487452hwy7eu8zcr" ctime="20120612135052" name="убрать заголовок окна" file="text.html"/>
+    <record dir="1339487536qtdbrq3ypm" crypt="0" url="" tags="" author="" id="1339487536upmmnutvqg" ctime="20120612135216" name="Настройка notify-osd" file="text.html"/>
+    <record dir="1339487712atxwf06pbc" crypt="0" url="" tags="" author="" id="1339487712l6lxze4kc8" ctime="20120612135512" name="Pidgin + X-Status " file="text.html"/>
+    <record dir="1339487783b90b3taq79" crypt="0" url="" tags="" author="" id="1339487783qtcgxwa3zp" ctime="20120612135623" name="Ускорение загрузки системы " file="text.html"/>
+    <record dir="1339487966z56bl3nvm3" crypt="0" url="" tags="" author="" id="13394879660m7ueqe9iw" ctime="20120612135926" name="проблема с мышью wine" file="text.html"/>
+    <record dir="133948804336duo3makj" crypt="0" url="" tags="" author="" id="1339488043xh8gyspsx4" ctime="20120612140043" name="полноценное представление об аппаратной части компьютера" file="text.html"/>
+    <record dir="1339489729sj31xltaod" crypt="0" url="" tags="" author="" id="1339489729kzg30m5h95" ctime="20120612142849" name="выдернуть иконки из ЕХЕ файла" file="text.html"/>
+    <record dir="1339489777on8mu5vv9v" crypt="0" url="" tags="" author="" id="1339489777jjn7dh79zi" ctime="20120612142937" name="Сохранение  просмотренного он-лайн видео" file="text.html"/>
+    <record dir="13394898172fsq2ln9um" crypt="0" url="" tags="" author="" id="13394898177nigfpmmb7" ctime="20120612143017" name="Создаем свой дистрибутив на базе Ubuntu" file="text.html"/>
+    <record dir="1339489838h6ifme4o0w" crypt="0" url="" tags="" author="" id="1339489838vqxs7ckoaj" ctime="20120612143038" name="Весь LinuxFormat одним ударом" file="text.html"/>
+    <record dir="1339489859ztfcl2olqy" crypt="0" url="" tags="" author="" id="13394898594705zgxghz" ctime="20120612143059" name="Наиболее часто используемые команды в Linux " file="text.html"/>
+    <record dir="1339489914ew1uhgqew8" crypt="0" url="" tags="" author="" id="1339489914ed1dhtuvab" ctime="20120612143154" name="Очень полезные команды Linux" file="text.html"/>
+    <record dir="13394899397owxfxvdl9" crypt="0" url="" tags="" author="" id="1339489939j3g2mymlmg" ctime="20120612143219" name="создание собственного репозитария на основе кеша apt" file="text.html"/>
+    <record dir="1339489964r2xo4z26ko" crypt="0" url="" tags="" author="" id="1339489964mw6ri1i644" ctime="20120612143244" name="Добавление ключа" file="text.html"/>
+    <record dir="13394902985nrbepswvw" crypt="0" url="" tags="" author="" id="1339490298hm0brfc1kb" ctime="20120612143818" name="Руководство по работе с wget" file="text.html"/>
+    <record dir="1339490340zasfl0bdhv" crypt="0" url="" tags="" author="" id="1339490340prd7w7pbw3" ctime="20120612143900" name="способы сборки пакетов" file="text.html"/>
+    <record dir="1339490366hmzbtbyimu" crypt="0" url="" tags="" author="" id="1339490366mx59umm8en" ctime="20120612143926" name="Скрипты" file="text.html"/>
+    <record dir="1339490859yvvp4mxjtp" crypt="0" url="" tags="" author="" id="1339490859dj54sa9ni6" ctime="20120612144739" name="Убираем меню и строку состояния Virtual Box" file="text.html"/>
+    <record dir="13394910870vd4w49jyx" crypt="0" url="" tags="" author="" id="1339491087qajzy460hj" ctime="20120612145127" name="После просыпания не спрашивать пароль" file="text.html"/>
+    <record dir="1339491156msrhy9kv5x" crypt="0" url="" tags="" author="" id="1339491156f7aan71md8" ctime="20120612145236" name="Послать по ссылке на хуй" file="text.html"/>
+    <record dir="1339491207nyhxokk56x" crypt="0" url="" tags="" author="" id="1339491207erb4zr6uvc" ctime="20120612145327" name="Remastersys команды" file="text.html"/>
+    <record dir="1339491227t7a4rabyk6" crypt="0" url="" tags="" author="" id="1339491227qa9qarbde7" ctime="20120612145347" name="восстановление флешки, форматирование флешки" file="text.html"/>
+    <record dir="1339491268nzid584hli" crypt="0" url="" tags="" author="" id="133949126840spzzm6jf" ctime="20120612145428" name="установить короткий пароль" file="text.html"/>
+    <record dir="13394912922mubbtaegu" crypt="0" url="" tags="" author="" id="1339491292t319u6bgju" ctime="20120612145452" name="полное удаление панели Gnome  Ubuntu 11.04" file="text.html"/>
+    <record dir="1339491338evvvl51wmk" crypt="0" url="" tags="" author="" id="13394913387y44qskj7l" ctime="20120612145538" name=" чтобы убрать всю тень в compiz" file="text.html"/>
+    <record dir="1339491643imv7skyn8c" crypt="0" url="" tags="" author="" id="13394916430y9j13dqqp" ctime="20120612150043" name="Вот это вылечит все виндовые крякозябры кодировки" file="text.html"/>
+    <record dir="1339491839fjidv854nu" crypt="0" url="" tags="" author="" id="1339491839dxuae4dwn2" ctime="20120612150359" name="Быстрая переустановка программ в Ubuntu" file="text.html"/>
+    <record dir="13394920375kw04tsvih" crypt="0" url="" tags="" author="" id="13394920372lo4rxafoc" ctime="20120612150717" name="Просмотр ТВ каналов Ростелекома на Ubuntu" file="text.html"/>
+    <record dir="133949246065biw28bdf" crypt="0" url="https://wiki.archlinux.org/index.php/Gnome_Tips#Thumbnails" tags="" author="" id="1339492460q72xsy6h6d" ctime="20120612151420" name="эскизы видео файлов" file="text.html"/>
+    <record dir="1339492504cq9u31s9yz" crypt="0" url="http://askubuntu.com/questions/67753/how-do-i-add-an-application-to-the-dash" tags="" author="" id="1339492504292qays2xx" ctime="20120612151504" name="Добавить запуск стороннего приложения в Dash" file="text.html"/>
+    <record dir="13394926070wo6ae1omd" crypt="0" url="" tags="" author="" id="1339492607c46sqgqcq8" ctime="20120612151647" name="Как временно изменить текст заголовка произвольного окна" file="text.html"/>
+    <record dir="1339492622z8tlgz26cs" crypt="0" url="" tags="" author="" id="1339492622e634m17lcp" ctime="20120612151702" name="долгая загрузка kde" file="text.html"/>
+    <record dir="1339492674s5pn73jxxk" crypt="0" url="" tags="" author="" id="1339492674hjzqkwt0c9" ctime="20120612151754" name="dpkg не работает" file="text.html"/>
+    <record dir="13394926893c4i2ofc5r" crypt="0" url="" tags="" author="" id="13394926891ourmp6kau" ctime="20120612151809" name="пересобрать deb-пакет" file="text.html"/>
+    <record dir="1340360220m873am11gi" crypt="0" url="http://kubuntu.ru/node/4899" tags="" author="" id="1340360220cv9czfya3y" ctime="20120622161700" name="Ускорение запуска всех приложений KDE" file="text.html"/>
+    <record dir="1340476848q9zxtydhfq" crypt="0" url="http://dnua.info/364-virtualbox-4.html" tags="" author="" id="13404768487h7b5ywsto" ctime="20120624004048" name="Устанавливаем VirtualBox 4.1" file="text.html"/>
+    <record dir="1340884030pd3fui94az" crypt="0" url="" tags="" author="" id="13408840307muc4xrdp6" ctime="20120628174710" name="Включение ускорения в VLC" file="text.html"/>
+    <record dir="1341043552ax5jfz8bfd" crypt="0" url="http://ubuntual.com/как-отключить-всплывающие-уведомлен/" tags="" author="" id="13410435524j9zsfl2f0" ctime="20120630140552" name="Как отключить всплывающие уведомления о системных ошибках в Ubuntu 12.04" file="text.html"/>
+    <record dir="1341048424e5vhr15jma" crypt="0" url="" tags="" author="" id="1341048424sjr1syy6te" ctime="20120630152704" name="Настройка ВКонтакте и Одноклассников в Pidgin" file="text.html"/>
+    <record dir="1344791906d0wu7g28qh" crypt="0" url="http://blog.freestee.ru/admin/ctrl-enter-pidgin-windows" tags="" author="" id="134479190602bb0qw6wo" ctime="20120812231826" name="Отправка по ctrl + enter в pidgin" file="text.html"/>
+    <record dir="1346573488utcj9mep1p" crypt="0" url="" tags="" author="" id="13465734885p8nld07l9" ctime="20120902141128" name="соединить два видеофайла в терминале" file="text.html"/>
+    <record dir="135228313057279gdav7" crypt="0" url="" tags="" author="" id="1352283130racp7g4ci8" ctime="20121107161210" name="Редактирование локализации" file="text.html"/>
+    <record dir="1352290098z5rdowl96z" crypt="0" url="" tags="" author="" id="1352290098dbf6jg7seq" ctime="20121107180818" name="скринкаст" file="text.html"/>
+    <record dir="1352389090scrua7ylwp" crypt="0" url="" tags="" author="" id="13523890900zssl1aiax" ctime="20121108213810" name="как создать ISO" file="text.html"/>
+    <record dir="1352567120uogw7nxfjo" crypt="0" url="" tags="" author="" id="1352567120vpa5oq1n7p" ctime="20121110230520" name="hdmi" file="text.html"/>
+    <record dir="13527830801ecksgfgo4" crypt="0" url="" tags="" author="" id="1352783080rvbcshkvz2" ctime="20121113110440" name="Поиск файлов" file="text.html"/>
+    <record dir="1354430265cg26yu80js" crypt="0" url="" tags="" author="" id="1354430265yw0dyc2p2p" ctime="20121202123745" name="Как настроить в Linux воспроизведение через интерфейс HDMI" file="text.html"/>
+    <record dir="1354447224agzavphgt5" crypt="0" url="http://gentoo.blog.ru/979441.html" tags="" author="" id="1354447224qljsdzsckg" ctime="20121202172024" name="samba" file="text.html"/>
+    <record dir="1356624438942lb6toh2" crypt="0" url="" tags="" author="" id="1356624438zzvirvtu2u" ctime="20121227220718" name="Linux воспроизведение через интерфейс HDMI" file="text.html"/>
+    <record dir="1356704382c6jr6pc80y" crypt="0" url="http://forum.ubuntu.ru/index.php?topic=125603.msg1585578#msg1585578" tags="" author="" id="1356704382nlb072is45" ctime="20121228201942" name="как DVD рипнуть Avidemux в AVI" file="text.html"/>
+    <record dir="1357313593w8o47cf7sp" crypt="0" url="" tags="" author="" id="1357313593bxuclzy850" ctime="20130104213313" name="Как сделать загрузочную флешку" file="text.html"/>
+    <record dir="1362052609lqw1tcng0z" crypt="0" url="" tags="" author="" id="1362052609ksd202vok0" ctime="20130228175649" name="Форматирование флешки" file="text.html"/>
+    <record dir="1363705684u4sq4l4fan" crypt="0" url="" tags="" author="" id="1363705684rwqrgq5nuz" ctime="20130319210804" name="очистка" file="text.html"/>
+   </recordtable>
+   <node id="1339490560exgbqnlxay" name="cd-dvd">
+    <recordtable>
+     <record dir="1339490680jitztj2uwd" crypt="0" url="" tags="" author="" id="1339490680tmp4iqiinz" ctime="20120612144440" name="Копирование сбойных файлов с CD/DVD в Linux" file="text.html"/>
+     <record dir="1339490703zz7ojpf1ni" crypt="0" url="" tags="" author="" id="1339490703gbq7oif82l" ctime="20120612144503" name="Ошибки при записи DVD и как с ними бороться " file="text.html"/>
+     <record dir="1339491567fpze98lsik" crypt="0" url="" tags="" author="" id="1339491567svpld49tou" ctime="20120612145927" name="Как узнать подлинного производителя болванок в Linux" file="text.html"/>
+     <record dir="1358431002r2p4gbrbnl" crypt="0" url="" tags="" author="" id="1358431002y6llqa3hry" ctime="20130117195642" name="md5sum" file="text.html"/>
+     <record dir="1358433575k81ljaqs0s" crypt="0" url="" tags="" author="" id="1358433575ygit849vbh" ctime="20130117203935" name="Проверка читаемости секторов" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="13394907959q7vgq04y2" name="virtualbox">
+    <recordtable>
+     <record dir="1339490926jv3v2jsbxp" crypt="0" url="" tags="" author="" id="1339490926e0yzos9nb7" ctime="20120612144846" name="Звук при установке кастрированной winxp game edition sp3 на Virtualbox" file="text.html"/>
+     <record dir="1339490939mjsijpxm2u" crypt="0" url="" tags="" author="" id="13394909398tuqj5rc9n" ctime="20120612144859" name="запуск Виртуальной машины" file="text.html"/>
+     <record dir="1339491624b454p99zi1" crypt="0" url="" tags="" author="" id="1339491624pe9pprf8ed" ctime="20120612150024" name="Конвертация образов" file="text.html"/>
+     <record dir="13394920193jpszb8msj" crypt="0" url="" tags="" author="" id="1339492019dbfkhsap87" ctime="20120612150659" name="Удаление vmware" file="text.html"/>
+     <record dir="1339492272ny7bieo8td" crypt="0" url="" tags="" author="" id="13394922720udy2zpaw1" ctime="20120612151112" name="Увеличение образа с NTFS в Virtualbox" file="text.html"/>
+     <record dir="1339492545nco62ekawh" crypt="0" url="" tags="" author="" id="13394925457puvtts602" ctime="20120612151545" name="Vmware Workstation патч" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1339490979oriyi149dd" name="wine">
+    <recordtable>
+     <record dir="1339490988ytngrlhvub" crypt="0" url="" tags="" author="" id="133949098896nlb5nuor" ctime="20120612144948" name="Dmaster.exe" file="text.html"/>
+     <record dir="1339491369kmbouqmq24" crypt="0" url="" tags="" author="" id="1339491369or1eru9c4x" ctime="20120612145609" name="Ссылки из wine-приложений в нативном браузере" file="text.html"/>
+     <record dir="13394926544ghol35s4i" crypt="0" url="" tags="" author="" id="1339492654xav1ygaulk" ctime="20120612151734" name="Fallout 3 на Linux" file="text.html"/>
+     <record dir="1340281452oq6jzxdfr1" crypt="0" url="http://kubuntu.ru/node/6547" tags="" author="" id="1340281452bc3ptrfk2s" ctime="20120621182412" name="не могу открыть диск С:\ в WINE" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1339491395jpxatr0fx3" name="плеер">
+    <recordtable>
+     <record dir="1339491414ouq14jsle5" crypt="0" url="" tags="" author="" id="13394914144d7eenbps4" ctime="20120612145654" name="Сборка" file="text.html"/>
+     <record dir="13394918535n8fe2jrfn" crypt="0" url="" tags="" author="" id="13394918539tcunm5hlm" ctime="20120612150413" name="Работаем с прошивкой" file="text.html"/>
+     <record dir="1339492297u7pn57maiz" crypt="0" url="" tags="" author="" id="1339492297c8tre2j4h2" ctime="20120612151137" name="модификация прошивки" file="text.html"/>
+     <record dir="1339492371kvr72ynrq4" crypt="0" url="" tags="" author="" id="1339492371nevqrafbrz" ctime="20120612151251" name="проверить и исправить ошибки файловой системы" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1339491441ywv4xz360h" name="печать">
+    <recordtable>
+     <record dir="133949146321lx5ido4d" crypt="0" url="" tags="" author="" id="13394914635gyfeckg2v" ctime="20120612145743" name=" 4 фотографии размера 10х15." file="text.html"/>
+     <record dir="1339491478bf6pulivhk" crypt="0" url="" tags="" author="" id="1339491478qrc06s3758" ctime="20120612145758" name="печать без полей." file="text.html"/>
+     <record dir="1339491548f7kw5abgds" crypt="0" url="" tags="" author="" id="1339491548ogz49qj9zj" ctime="20120612145908" name="Как калиброват и распечатывать дюзы" file="text.html"/>
+     <record dir="1339491713b6rgafse1c" crypt="0" url="" tags="" author="" id="1339491713bfb2iaup6d" ctime="20120612150153" name="Печать документов в виде брошюры в Linux" file="text.html"/>
+     <record dir="13394918662ixus0hdii" crypt="0" url="" tags="" author="" id="1339491866gblve4zore" ctime="20120612150426" name="печать pdf" file="text.html"/>
+     <record dir="13394918815qr6lmr1ai" crypt="0" url="" tags="" author="" id="1339491881fioad04q1x" ctime="20120612150441" name="Печать брошюр" file="text.html"/>
+     <record dir="1339491895ht45jylnom" crypt="0" url="" tags="" author="" id="13394918950l8omw10ih" ctime="20120612150455" name="Подготовка к печати брошюр в Ubuntu" file="text.html"/>
+     <record dir="1339491908x475s91ap0" crypt="0" url="" tags="" author="" id="1339491908rt1a9xk16s" ctime="20120612150508" name="печать PDF/PS в виде буклета " file="text.html"/>
+     <record dir="13394919200ly2bnfvol" crypt="0" url="" tags="" author="" id="13394919204fmiknmq5m" ctime="20120612150520" name="psutils и печать буклета" file="text.html"/>
+     <record dir="1340004093nhr97tcbhj" crypt="0" url="" tags="" author="" id="1340004093q8fmkvhcs5" ctime="20120618132133" name="Не запускается приложение photoprint в Ubuntu 12.04 lts" file="text.html"/>
+     <record dir="1342792161uevsx26967" crypt="0" url="http://www.kakprosto.ru/kak-112506-kak-raspechatat-web-stranicu" tags="" author="" id="1342792161c4nmsb1psk" ctime="20120720194921" name="Как распечатать web-страницу" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="13394918080gekmo39wf" name="Интернет">
+    <recordtable>
+     <record dir="1339491815ezisj4w2ds" crypt="0" url="" tags="" author="" id="1339491815h0iw9s9z9s" ctime="20120612150335" name="Настройка L2TP подключения" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1354447286eee7sr98bu" name="gentoo">
+    <recordtable>
+     <record dir="1354447286gmii0z8ckw" crypt="0" url="http://www.calculate-linux.org/boards/16/topics/7072" tags="" author="" id="1354447286ytrt0tmm0k" ctime="20121202172126" name="autounmask" file="text.html"/>
+     <record dir="1354447286tff7m7ecvp" crypt="0" url="" tags="" author="" id="13544472866bc4us4i4o" ctime="20121202172126" name="utounmask-write &amp;&amp; dispatch-conf " file="text.html"/>
+     <record dir="1354447286fixmbxfdkf" crypt="0" url="" tags="" author="" id="1354447286xdac0xzepu" ctime="20121202172126" name="обновление" file="text.html"/>
+     <record dir="1354447286jb6vgg30y7" crypt="0" url="" tags="" author="" id="13544472864d51zgyuti" ctime="20121202172126" name="Установка и удаление" file="text.html"/>
+     <record dir="1354447286q7b0jbdz52" crypt="0" url="" tags="" author="" id="1354447286tpef0av4au" ctime="20121202172126" name="grub" file="text.html"/>
+     <record dir="1354447286runxv3dtxn" crypt="0" url="http://www.calculate-linux.ru/blogs/ru/331/show" tags="" author="" id="1354447286s3u34tvhs0" ctime="20121202172126" name="Передача звука по HDMI на TV " file="text.html"/>
+     <record dir="1354447286k25eh6odqe" crypt="0" url="http://www.calculate-linux.ru/main/ru/faq#Как-удалить-старые-ядра" tags="" author="" id="1354447286nh8qujtos7" ctime="20121202172126" name="Удаление ядер" file="text.html"/>
+     <record dir="1354447286bkql4uufc3" crypt="0" url="" tags="" author="" id="1354447286vc516mnafd" ctime="20121202172126" name="пароль root" file="text.html"/>
+     <record dir="1354447286oiac95bi93" crypt="0" url="" tags="" author="" id="1354447286504wloqv3i" ctime="20121202172126" name="маскировка пакета" file="text.html"/>
+     <record dir="1354447286yya3zg626l" crypt="0" url="" tags="" author="" id="1354447286fak62trdr0" ctime="20121202172126" name="смена владельцев" file="text.html"/>
+     <record dir="1354447286hx0191pfcs" crypt="0" url="" tags="" author="" id="1354447286ebqou6lg87" ctime="20121202172126" name="gcc" file="text.html"/>
+     <record dir="1354447286i4i2akbhy2" crypt="0" url="" tags="" author="" id="1354447286xvfdwoulk6" ctime="20121202172126" name="Темы и суперпользователь" file="text.html"/>
+     <record dir="1354447286dyxj28p3oe" crypt="0" url="" tags="" author="" id="1354447286b6it88djpr" ctime="20121202172126" name="use флаги " file="text.html"/>
+     <record dir="135444728622mhfi6pj6" crypt="0" url="http://www.calculate-linux.ru/boards/16/topics/18501" tags="" author="" id="1354447286vc49w6h1a5" ctime="20121202172126" name="Возникла проблема после обновления X " file="text.html"/>
+     <record dir="1358675352akx0gvvgr5" crypt="0" url="http://www.calculate-linux.ru/boards/16/topics/17684?r=17688#message-17688" tags="" author="" id="1358675352ede1h2sqfd" ctime="20130120154912" name="При монтировании флэшек система трнебует пароль рута" file="text.html"/>
+     <record dir="1362591674mj9m6mkwv1" crypt="0" url="http://www.calculate-linux.ru/boards/16/topics/20986" tags="" author="" id="1362591674ey3bjy8mli" ctime="20130306234114" name="Не собирается x11-drivers/nvidia-drivers-313.18 для ядра 3,7,10" file="text.html"/>
+     <record dir="1366982716l90rltmzj4" crypt="0" url="" tags="" author="" id="1366982716t1gtetvrmp" ctime="20130426192516" name="Чистка кеш" file="text.html"/>
+     <record dir="1373384208p6qs2rgsjv" crypt="0" url="http://www.calculate-linux.ru/main/ru/system_utilities" tags="" author="" id="1373384208zucnm8gd4q" ctime="20130709213648" name="Установка и удаление программ" file="text.html"/>
+     <record dir="137407006113nvpxkwxe" crypt="0" url="" tags="" author="" id="1374070061y4vgser35i" ctime="20130717200741" name="update-world" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="1339491506c6ryv1zdwg" name="Windows">
+   <recordtable>
+    <record dir="1339491526d0mkexmeby" crypt="0" url="" tags="" author="" id="1339491526u4hiazb31s" ctime="20120612145846" name="Как отменить проверку windows" file="text.html"/>
+    <record dir="1339491735xh28jlytq4" crypt="0" url="" tags="" author="" id="13394917357try97tahy" ctime="20120612150215" name="редактирование реестра Windows из Ubuntu" file="text.html"/>
+    <record dir="138038260920yhsn5864" crypt="0" url="http://www.gigabyte.ru/forum/viewtopic.php?t=17998" tags="" author="" id="13803826093sicy6pa3o" ctime="20130928213649" name="Как расшифровать &quot;Синий экран смерти&quot;" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1339491764dj7kxgrr6p" name="Прочее">
+   <recordtable>
+    <record dir="1339492562k31uya37wk" crypt="0" url="http://khvinfo.ru/content/Поздравление+60+лет+тете+86f" tags="" author="" id="13394925629uqeavyrwn" ctime="20120612151602" name="Поздравление 60 лет тете" file="text.html"/>
+    <record dir="1339492744io9cfbh1br" crypt="0" url="http://images04.olx.com.ua/ui/11/47/76/1306210420_206744176_1----.jpg" tags="" author="" id="1339492744chh3jftj1n" ctime="20120612151904" name="Установка уголка потолок" file="text.html"/>
+    <record dir="133949279010gy3ftxeu" crypt="0" url="" tags="" author="" id="13394927900d3gjn7g89" ctime="20120612151950" name="Претензия о расторжении ДКП" file="text.html"/>
+    <record dir="1339492816gghjcg6jxv" crypt="0" url="" tags="" author="" id="1339492816txa2olo3j0" ctime="20120612152016" name="Подробный разбор файла actor.ltx сталкер" file="text.html"/>
+    <record dir="1339492846oxoyfczkfy" crypt="0" url="" tags="" author="" id="1339492846klveb2knzc" ctime="20120612152046" name=" Fahrenheit / Indigo Prophecy (Прохождение) " file="text.html"/>
+    <record dir="1339492878iufu8qc9er" crypt="0" url="" tags="" author="" id="1339492878lu7424ufbd" ctime="20120612152118" name="спутниковоео телевидение ,что зачем и почему " file="text.html"/>
+    <record dir="13448595579kq4kxtj2w" crypt="0" url="" tags="" author="" id="1344859557cmtvfbesvc" ctime="20120813180557" name="DVD ripping." file="text.html"/>
+    <record dir="1350031538ppsc6dakts" crypt="0" url="http://ubuntuclub.ru/home.php?name=HOBOCTi&amp;file=article&amp;sid=100000717" tags="" author="" id="1350031538934m8ah96n" ctime="20121012144538" name="ArtMoney для Ubuntu или просто - взлом игр в Linux" file="text.html"/>
+    <record dir="13520585431uhrvnpsv2" crypt="0" url="" tags="" author="" id="1352058543dvgw1nqo72" ctime="20121105014903" name="ночь" file="text.html"/>
+    <record dir="1352060043lrlh32ktqr" crypt="0" url="" tags="" author="" id="1352060043bmgokhy4ek" ctime="20121105021403" name="утро" file="text.html"/>
+    <record dir="1354447328zl9ry380qo" crypt="0" url="" tags="" author="" id="1354447328qpqz7pm7bf" ctime="20121202172208" name="FFmpeg" file="text.html"/>
+    <record dir="135677171114z1b9wkr3" crypt="0" url="http://zuevkz.narod.ru/" tags="" author="" id="13567717118znqqsjzy4" ctime="20121229150151" name="Сводная таблица фильтров VirtualDub" file="text.html"/>
+    <record dir="1358090937w8lnvvfn8a" crypt="0" url="" tags="" author="" id="13580909373fo76dg2o6" ctime="20130113212857" name="artmoney" file="text.html"/>
+    <record dir="13614550873m8yek2awl" crypt="0" url="" tags="" author="" id="1361455087j3l12tcqef" ctime="20130221195807" name="планшет калибровка" file="text.html"/>
+    <record dir="1379760019o80wv4ettr" crypt="0" url="" tags="" author="" id="1379760019hsw6byew1g" ctime="20130921164019" name="лучшие торрент-трекер" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1378761346oqwo70mi96" name="android">
+   <recordtable>
+    <record dir="137876139466tiugjgy8" crypt="0" url="http://forum.china-iphone.ru/post942761.html#p942761" tags="" author="" id="1378761394mi1fb3kq77" ctime="20130910031634" name="Засыпание ядер" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>

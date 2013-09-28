@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ключ</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 7613768D</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">W: Произошла ошибка при проверке подписей. Индексные файлы не обновлены, будут использоваться их старые версии. Ошибка GPG: http://ru.archive.ubuntu.com hardy-updates Release: Следующие подписи неверные: BADSIG 40976EAF437D05B5 Ubuntu Archive Automatic Signing Key &lt;ftpmaster@ubun</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">W: Не удалось загрузить http://ru.archive.ubuntu.com/ubuntu/dists/hardy-updates/Release  </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">W: Некоторые индексные файлы не загрузились, они были проигнорированы или вместо них были использованы старые версии</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">W: Вы можете запустить 'apt-get update' для исправления этих ошибок</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Если кому не трудно помогите как исправить ? </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Заранее благодарю.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Странно, что ключи не подцепились сразу... Или точнее - куда пропали...</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Восстановить оч просто... Переходим с помощью браузера в указанную папку, т.е. в вашем случае http://ru.archive.ubuntu.com/ubuntu/dists/hardy-updates/ В ней находиться файл Release.gpg, сохраняем его на винт и далее возможны два варианта - использовать непосредственно gpg для испортирования ключа, или открыв synaptic выбрать пункт меню Настройка-Репозитории, появляется окно, в котором открываем вкладку Авторизация. Там жмем кнопку Импортировать файл ключа, выбираем наш файл и наслаждаемся </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">доступные ключи репозиториев и добавит их в систему. Основным достоинством этой команды является то, что таким образом можно найти и добавить несколько ключей за один раз.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"> Команда эта выглядит так: </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"> sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com `sudo aptitude update 2&gt;&amp;1 | grep -o '[0-9A-Z]\{16\}$' | xargs`</p></body></html>
