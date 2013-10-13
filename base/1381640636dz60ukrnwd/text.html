@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Небольшое примечание - у меня переключение раскладок было настроено только в оконном менеджере, соответственно, в игре, запущенной таким образом, оно не работало. Пришлось, наконец, настроить.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Есть некоторые отличия от описанного ранее: файл /etc/X11/xorg.conf теперь не трогаем, а создаём файл, например, /etc/X11/xorg.conf.d/20-keyboard.conf следующего содержания:</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Section &quot;InputClass&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Identifier &quot;evdev keyboard catchall&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">MatchIsKeyboard &quot;on&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">MatchDevicePath &quot;/dev/input/event*&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Driver &quot;evdev&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Option &quot;XkbLayout&quot; &quot;us,ru(winkeys)&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Option &quot;XkbOptions&quot; &quot;grp:caps_toggle,grp_led:scroll,compose:ralt,terminate:ctrl_alt_bksp&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">EndSection</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Конечно, это пример. Тут - переключение между английской (США) и русской (с win-клавишами, разница, в частности, в расположении запятой) раскладками по CapsLock, с индикацией при этом светодиода на ScrollLock, с перезагрузкой иксов по Ctrl+Alt+Backspace, и назначена compose-клавиша на правый Alt.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Последнего в той старой статье не было, так вот клавишу Compose можно подобным же образом назначить на левый Alt (lalt), правый или левый Ctrl (rctrl, lctrl), правую или левую клавишу Windows (rwin и lwin) и на клавишу контекстного меню (menu).</p></body></html>
