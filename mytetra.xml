@@ -83,9 +83,7 @@
    </node>
    <node id="1339490979oriyi149dd" name="wine">
     <recordtable>
-     <record dir="1339490988ytngrlhvub" crypt="0" url="" tags="" author="" id="133949098896nlb5nuor" ctime="20120612144948" name="Dmaster.exe" file="text.html"/>
      <record dir="1339491369kmbouqmq24" crypt="0" url="" tags="" author="" id="1339491369or1eru9c4x" ctime="20120612145609" name="Ссылки из wine-приложений в нативном браузере" file="text.html"/>
-     <record dir="13394926544ghol35s4i" crypt="0" url="" tags="" author="" id="1339492654xav1ygaulk" ctime="20120612151734" name="Fallout 3 на Linux" file="text.html"/>
      <record dir="1340281452oq6jzxdfr1" crypt="0" url="http://kubuntu.ru/node/6547" tags="" author="" id="1340281452bc3ptrfk2s" ctime="20120621182412" name="не могу открыть диск С:\ в WINE" file="text.html"/>
      <record dir="13821650348g6hf6z3nv" crypt="0" url="" tags="" author="" id="1382165034bgyruv4fsy" ctime="20131019124354" name="game  Х-сессия" file="text.html"/>
     </recordtable>
@@ -101,7 +99,6 @@
    <node id="1339491441ywv4xz360h" name="печать">
     <recordtable>
      <record dir="133949146321lx5ido4d" crypt="0" url="" tags="" author="" id="13394914635gyfeckg2v" ctime="20120612145743" name=" 4 фотографии размера 10х15." file="text.html"/>
-     <record dir="1339491478bf6pulivhk" crypt="0" url="" tags="" author="" id="1339491478qrc06s3758" ctime="20120612145758" name="печать без полей." file="text.html"/>
      <record dir="1339491548f7kw5abgds" crypt="0" url="" tags="" author="" id="1339491548ogz49qj9zj" ctime="20120612145908" name="Как калиброват и распечатывать дюзы" file="text.html"/>
      <record dir="1339491713b6rgafse1c" crypt="0" url="" tags="" author="" id="1339491713bfb2iaup6d" ctime="20120612150153" name="Печать документов в виде брошюры в Linux" file="text.html"/>
      <record dir="13394918662ixus0hdii" crypt="0" url="" tags="" author="" id="1339491866gblve4zore" ctime="20120612150426" name="печать pdf" file="text.html"/>
@@ -154,7 +151,6 @@
   </node>
   <node id="1339491764dj7kxgrr6p" name="Прочее">
    <recordtable>
-    <record dir="1339492744io9cfbh1br" crypt="0" url="http://images04.olx.com.ua/ui/11/47/76/1306210420_206744176_1----.jpg" tags="" author="" id="1339492744chh3jftj1n" ctime="20120612151904" name="Установка уголка потолок" file="text.html"/>
     <record dir="133949279010gy3ftxeu" crypt="0" url="" tags="" author="" id="13394927900d3gjn7g89" ctime="20120612151950" name="Претензия о расторжении ДКП" file="text.html"/>
     <record dir="1339492816gghjcg6jxv" crypt="0" url="" tags="" author="" id="1339492816txa2olo3j0" ctime="20120612152016" name="Подробный разбор файла actor.ltx сталкер" file="text.html"/>
     <record dir="1339492846oxoyfczkfy" crypt="0" url="" tags="" author="" id="1339492846klveb2knzc" ctime="20120612152046" name=" Fahrenheit / Indigo Prophecy (Прохождение) " file="text.html"/>
