@@ -71,7 +71,7 @@
      <record dir="1358433575k81ljaqs0s" crypt="0" url="" tags="" author="" id="1358433575ygit849vbh" ctime="20130117203935" name="Проверка читаемости секторов" file="text.html"/>
     </recordtable>
    </node>
-   <node id="13394907959q7vgq04y2" name="virtualbox">
+   <node id="13394907959q7vgq04y2" name="virtual">
     <recordtable>
      <record dir="1339490926jv3v2jsbxp" crypt="0" url="" tags="" author="" id="1339490926e0yzos9nb7" ctime="20120612144846" name="Звук при установке кастрированной winxp game edition sp3 на Virtualbox" file="text.html"/>
      <record dir="1339490939mjsijpxm2u" crypt="0" url="" tags="" author="" id="13394909398tuqj5rc9n" ctime="20120612144859" name="запуск Виртуальной машины" file="text.html"/>
@@ -79,6 +79,7 @@
      <record dir="13394920193jpszb8msj" crypt="0" url="" tags="" author="" id="1339492019dbfkhsap87" ctime="20120612150659" name="Удаление vmware" file="text.html"/>
      <record dir="1339492272ny7bieo8td" crypt="0" url="" tags="" author="" id="13394922720udy2zpaw1" ctime="20120612151112" name="Увеличение образа с NTFS в Virtualbox" file="text.html"/>
      <record dir="1339492545nco62ekawh" crypt="0" url="" tags="" author="" id="13394925457puvtts602" ctime="20120612151545" name="Vmware Workstation патч" file="text.html"/>
+     <record dir="13973604000mfvjcf9p1" crypt="0" url="" tags="" author="" id="1397360400gqw7xsu0nm" ctime="20140413094000" name="Удаление vmware" file="text.html"/>
     </recordtable>
    </node>
    <node id="1339490979oriyi149dd" name="wine">
