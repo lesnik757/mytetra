@@ -80,6 +80,7 @@
      <record dir="1339492272ny7bieo8td" crypt="0" url="" tags="" author="" id="13394922720udy2zpaw1" ctime="20120612151112" name="Увеличение образа с NTFS в Virtualbox" file="text.html"/>
      <record dir="1339492545nco62ekawh" crypt="0" url="" tags="" author="" id="13394925457puvtts602" ctime="20120612151545" name="Vmware Workstation патч" file="text.html"/>
      <record dir="13973604000mfvjcf9p1" crypt="0" url="" tags="" author="" id="1397360400gqw7xsu0nm" ctime="20140413094000" name="Удаление vmware" file="text.html"/>
+     <record dir="139792079512vzhsqalg" crypt="0" url="https://wiki.archlinux.org/index.php/VMware#3.14_kernels" tags="" author="" id="1397920795tjl4lr9ggt" ctime="20140419211955" name="wmware патч" file="text.html"/>
     </recordtable>
    </node>
    <node id="1339490979oriyi149dd" name="wine">
